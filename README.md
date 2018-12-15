@@ -50,3 +50,27 @@ See:
 2. Remove modules you may not need in [`.gitmodules`](.gitmodules).
 3. Run `git submodule update --init --recursive` to initialize the modules.
 5. Remove this text here.
+
+### LICENSE
+
+The MIT license file included is also a template. You may choose any license.
+
+This template itself is published under CC0, so do not have to attribute me for a simple template or so. That makes no sense. :)
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/TinyWebEx/AddonTemplate">
+    <span property="dct:title">rugk</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">AddonTemplate</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="DE" about="https://github.com/TinyWebEx/AddonTemplate">
+  Germany</span>.
+</p>
