@@ -1,0 +1,19 @@
+{
+  // manifest.json
+  "extensionName": {
+    "message": "THIS_ADDON_NAME_HUMAN",
+    "description": "Name of the extension."
+  },
+  "extensionNameShort": {
+    "message": "THIS_ADDON_NAME_SHORT_HUMAN",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Allows you to do great stuff.",
+    "description": "Description of the extension."
+  },
+  "browserActionButtonTitle": {
+    "message": "THIS_ADDON_NAME_HUMAN",
+    "description": "The title for the button, which opens the popup."
+  }
+}
