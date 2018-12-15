@@ -1,4 +1,4 @@
-# Offline QR Code Generator <img align="right" height="425" width="365" src="assets/screencasts/example.gif">
+# THIS_ADDON_NAME_HUMAN <img align="right" height="425" width="365" src="assets/screencasts/example.gif">
 
 [![Mozilla Add-on version](https://img.shields.io/amo/v/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/de/firefox/addon/THIS_ADDON_NAME_AMO/?src=external-github-shield-downloads)  
 [![Mozilla Add-on downloads](https://img.shields.io/amo/d/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/de/firefox/addon/THIS_ADDON_NAME_AMO/?src=external-github-shield-downloads)
