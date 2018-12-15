@@ -73,21 +73,3 @@ input[type=radio] ~ .helper-text {
   overflow-wrap: none;
 }
 
-/* special options values */
-
-#popupIconColor {
-  display: inline;
-}
-
-#qrQuietZone {
-  position: relative;
-  top: 5px;
-  cursor: pointer;
-  /* -webkit-appearance: none; */
-}
-
-#qrCodeSizeFixedValue {
-  width: 4.5em;
-}
-
-/* TODO: make i icon bigger */
