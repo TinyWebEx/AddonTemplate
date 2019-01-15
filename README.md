@@ -1,9 +1,9 @@
 # THIS_ADDON_NAME_HUMAN <img align="right" height="425" width="365" src="assets/screencasts/example.gif">
 
-[![Mozilla Add-on version](https://img.shields.io/amo/v/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/de/firefox/addon/THIS_ADDON_NAME_AMO/?src=external-github-shield-downloads)  
-[![Mozilla Add-on downloads](https://img.shields.io/amo/d/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/de/firefox/addon/THIS_ADDON_NAME_AMO/?src=external-github-shield-downloads)
-[![Mozilla Add-on users](https://img.shields.io/amo/users/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/de/firefox/addon/THIS_ADDON_NAME_AMO/statistics/)
-[![Mozilla Add-on stars](https://img.shields.io/amo/stars/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/de/firefox/addon/THIS_ADDON_NAME_AMO/reviews/)
+[![Mozilla Add-on version](https://img.shields.io/amo/v/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/firefox/addon/THIS_ADDON_NAME_AMO/?src=external-github-shield-downloads)  
+[![Mozilla Add-on downloads](https://img.shields.io/amo/d/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/firefox/addon/THIS_ADDON_NAME_AMO/?src=external-github-shield-downloads)
+[![Mozilla Add-on users](https://img.shields.io/amo/users/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/firefox/addon/THIS_ADDON_NAME_AMO/statistics/)
+[![Mozilla Add-on stars](https://img.shields.io/amo/stars/THIS_ADDON_NAME_AMO.svg)](https://addons.mozilla.org/firefox/addon/THIS_ADDON_NAME_AMO/reviews/)
 
 <img height="200" width="200" src="assets/header.svg">
 
