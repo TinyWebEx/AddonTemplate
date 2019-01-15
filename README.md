@@ -29,7 +29,7 @@ See:
 
 ## Features
 * Puts your privacy first! Privacy is the default here.
-* Follows [Firefox Photon Design](https://design.firefox.com/photon/welcome.html).
+* Follows [Firefox Photon Design](https://design.firefox.com/photon).
 * Has a simple, but intuitive and usable User Interface.
 * Translated in English and German already. [Contribute your own language!](CONTRIBUTING.md#Translations)
 * Compatible with Firefox for Android
@@ -48,7 +48,7 @@ See:
   * `THIS_ADDON_NAME_ID` -> `my-awesome-addon@user.github.io`
   * `THIS_ADDON_GITHUB_URL` -> `https://github.com/user/project`
 2. Remove modules you may not need in [`.gitmodules`](.gitmodules).
-3. Run `git submodule update --init --recursive` to initialize the modules.
+3. Run `git submodule update --init --recursive` to initialize the remaining modules.
 5. Remove this text here.
 
 ### LICENSE
@@ -56,6 +56,7 @@ See:
 The MIT license file included is also a template. You may choose any license.
 
 This template itself is published under CC0, so do not have to attribute me for a simple template or so. That makes no sense. :)
+Just remember that the TinyWebEx modules do have their own licenses, usually MIT licenses, so you need to include them, if you want to use these modules.
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
