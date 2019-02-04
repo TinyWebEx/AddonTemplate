@@ -68,6 +68,6 @@
   // ARIA labels/descriptions
   "dismissIconDescription": {
     "message": "Bu mesajı kapat",
-    "description": "the label for the close button of the message box"
+    "description": "the aria label for the close button of the message box"
   }
 }
