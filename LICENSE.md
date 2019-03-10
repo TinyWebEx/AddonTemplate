@@ -1,4 +1,4 @@
-## Offline QR code generator license
+## THIS_ADDON_NAME_HUMAN license
 
 Copyright (c) 2018 THIS_ADDON_AUTHOR and contributors
 
@@ -61,4 +61,3 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-
