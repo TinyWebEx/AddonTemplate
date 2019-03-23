@@ -29,9 +29,9 @@ See:
 
 ## Features
 * Puts your privacy first! Privacy is the default here.
-* Follows [Firefox Photon Design](https://design.firefox.com/photon).
+* Follows the [Firefox Photon Design](https://design.firefox.com/photon).
 * Has a simple, but intuitive and usable User Interface.
-* Translated in English and German already. [Contribute your own language!](CONTRIBUTING.md#Translations)
+* Translated in several languages already. [Contribute your own language!](CONTRIBUTING.md#Translations)
 * Compatible with Firefox for Android
 * […]
 
