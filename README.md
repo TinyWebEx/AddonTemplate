@@ -50,6 +50,7 @@ See:
 2. Remove modules you may not need in [`.gitmodules`](.gitmodules).
 3. Run `git submodule update --init --recursive` to initialize the remaining modules.
 5. Remove this text here.
+6. Remove the `.git` dir and run `git init` to get a fresh repo to start.
 
 ### LICENSE
 
