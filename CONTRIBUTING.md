@@ -10,8 +10,8 @@ Some links and potential special rules for this repo only are listed below.
 * English locales dir: [`src/_locales/en`](src/_locales/en)
 * Text assets to translate: [`assets/texts`](assets/texts)
 * Screenshots: [`assets/screenshots`](assets/screenshots)
-* Wiki to translate: [wiki](/wiki)
-* Sidebar file for adding language: [`_Sidebar` file](/wiki/_Sidebar/_edit)
+* Wiki to translate: [wiki](../../wiki)
+* Sidebar file for adding language: [`_Sidebar` file](../../wiki/_Sidebar/_edit)
 
 ### Coding guidelines
 
