@@ -4,6 +4,10 @@
 
 ## Translators
 
+### English
+
+- [@rugk](https://github.com/rugk)
+
 ### German
 
 - [@rugk](https://github.com/rugk)
