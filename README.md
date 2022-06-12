@@ -17,7 +17,7 @@ It is inspired by …. This extension only works with modern Firefox v60 or high
 
 ## Download
 
-**[![Get it for Firefox!](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/firefox/addon/THIS_ADDON_NAME_AMO/?utm_source=github.com&utm_medium=git&utm_content=download-button&utm_campaign=github)**
+**[![Get it for Firefox!](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/firefox/addon/THIS_ADDON_NAME_AMO/?utm_source=github.com&utm_medium=git&utm_content=download-button&utm_campaign=github)**
 
 ## In action…
 
